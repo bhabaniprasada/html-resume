@@ -20,19 +20,7 @@ It showcases my profile, skills, education, experience, hobbies, and contact det
 
 🚀 Getting Started
    1) Clone this repository: 
-      git clone https://
-
-
-Open the project folder 📂
-
-Launch index.html in your browser 🌍
-
-🖼️ Preview
-
-👉 (Add screenshot or live GitHub Pages link here)
-
-🔗 Connect with Me
-
-💼 LinkedIn
-
-🐙 GitHub
+      git clone https://bhabaniprasada.github.io/html-resume/
+   2) Open the project folder 📂:
+      Launch index.html in your browser 🌍
+      
