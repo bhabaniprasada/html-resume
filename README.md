@@ -20,7 +20,7 @@ It showcases my profile, skills, education, experience, hobbies, and contact det
 
 🚀 Getting Started
    1) Clone this repository: 
-      git clone https://github.com/your-username/resume-website.git
+      git clone https://
 
 
 Open the project folder 📂
